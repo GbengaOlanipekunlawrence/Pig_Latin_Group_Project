@@ -26,3 +26,4 @@ str.slice(0, vowelIndex) extracts the portion of the string starting at index 0(
 The extracted portion here is the consonant or consonant cluster as the case may be. Note that the .slice() 
 method returns the portion from the starting index to but not including the end index.
 We combine these extracted portions and affix "``ay``" to the end to form the final result which is returned from the function as such.
+Co -authored Prosper Simi and Chroma ojo.
